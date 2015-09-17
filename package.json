@@ -1,0 +1,12 @@
+{
+  "name": "map-reduce",
+  "version": "0.0.1",
+  "description": "A javascript implementation of the map reduce algorithm",
+  "author": "Todd Turner",
+  "dependencies": {},
+  "devDependencies": {
+    "broccoli": "0.16.8",
+    "broccoli-babel-transpiler": "~5.4.5"
+  },
+  "license": "MIT"
+}
